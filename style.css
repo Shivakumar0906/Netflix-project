@@ -1,0 +1,30 @@
+.header-logo{
+    height: 1.5cm;
+}
+.netflix-body{
+    background-color: black
+}
+.mid-section-heading{
+    color: white;
+    text-align: center;
+}
+.mid-section-profile{
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly
+
+}
+.mid-section-profile-image{
+    width: 125px;
+}
+#ab{
+    color: white;
+    text-align: center;
+}
+#abc{
+    colour: white;
+}
+.mid-section-button{
+    
+    text-align: center;
+}
